@@ -1,0 +1,4 @@
+*.csv
+*.txt
+!requirements.txt
+!scraped_yelp_results_for_Boston,MA.csv
