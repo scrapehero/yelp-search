@@ -1,0 +1,151 @@
+business_name,rank,review_count,categories,rating,address,reservation_available,accept_pickup,price_range,url
+Carmelina’s,"1 
+
+
+        
+",1320,Italian,4.5,307 Hanover St,True,False,2,https://www.yelp.com/biz/carmelinas-boston-2?osq=restaurants
+The Salty Pig,"2 
+
+
+        
+",1473,"American (New),Italian,Pizza",4.0,130 Dartmouth St,False,False,2,https://www.yelp.com/biz/the-salty-pig-boston?osq=restaurants
+Giacomo’s Ristorante,"3 
+
+
+        
+",3109,"Italian,Wine Bars,Seafood",4.0,355 Hanover St,False,False,2,https://www.yelp.com/biz/giacomos-ristorante-boston?osq=restaurants
+Soup Shack,"4 
+
+
+        
+",70,"Ramen,Vietnamese,Thai",4.5,779 Centre St,False,True,0,https://www.yelp.com/biz/soup-shack-boston?osq=restaurants
+Neptune Oyster,"5 
+
+
+        
+",4442,"Seafood,Bars",4.5,63 Salem St,False,False,3,https://www.yelp.com/biz/neptune-oyster-boston?osq=restaurants
+Saltie Girl,"6 
+
+
+        
+",649,"Seafood,Wine Bars,Cocktail Bars",4.5,281 Dartmouth St,False,False,3,https://www.yelp.com/biz/saltie-girl-boston?osq=restaurants
+Luke’s Lobster Back Bay,"7 
+
+
+        
+",1369,Seafood,4.0,75 Exeter Street,False,False,2,https://www.yelp.com/biz/lukes-lobster-back-bay-boston?osq=restaurants
+Row 34,"8 
+
+
+        
+",1235,"American (New),Seafood,Bars",4.0,383 Congress St,False,False,3,https://www.yelp.com/biz/row-34-boston?osq=restaurants
+Pomodoro,"9 
+
+
+        
+",379,Italian,4.5,351 Hanover St,False,False,2,https://www.yelp.com/biz/pomodoro-boston-2?osq=restaurants
+Gaslight,"10 
+
+
+        
+",1855,"French,American (New),Cocktail Bars",4.0,560 Harrison Ave,False,True,2,https://www.yelp.com/biz/gaslight-brasserie-boston-5?osq=restaurants
+Island Creek Oyster Bar,"11 
+
+
+        
+",2501,"Seafood,Bars",4.5,500 Commonwealth Ave,False,False,3,https://www.yelp.com/biz/island-creek-oyster-bar-boston?osq=restaurants
+Bostonia Public House,"12 
+
+
+        
+",1065,"American (New),Music Venues,Cocktail Bars",4.0,131 State St,False,False,2,https://www.yelp.com/biz/bostonia-public-house-boston-4?osq=restaurants
+Fuji at Ink Block,"13 
+
+
+        
+",288,"Japanese,Sushi Bars",4.5,352 Harrison Ave,True,True,2,https://www.yelp.com/biz/fuji-at-ink-block-boston?osq=restaurants
+Myers & Chang,"14 
+
+
+        
+",1482,"Asian Fusion,Taiwanese,Cocktail Bars",4.0,1145 Washington St,False,False,2,https://www.yelp.com/biz/myers-and-chang-boston?osq=restaurants
+Barcelona Wine Bar South End,"15 
+
+
+        
+",870,"Spanish,Wine Bars,Tapas/Small Plates",4.5,525 Tremont St,False,False,2,https://www.yelp.com/biz/barcelona-wine-bar-south-end-boston-6?osq=restaurants
+SOJUba,"16 
+
+
+        
+",155,"Korean,Lounges",4.5,1260 Boylston St,False,False,2,https://www.yelp.com/biz/sojuba-boston?osq=restaurants
+Toro,"17 
+
+
+        
+",1936,"Tapas Bars,Spanish,Cocktail Bars",4.0,1704 Washington St,False,False,3,https://www.yelp.com/biz/toro-boston-2?osq=restaurants
+Bootleg Special,"18 
+
+
+        
+",130,"Cajun/Creole,Seafood,Tapas Bars",4.0,400 Tremont St,True,False,2,https://www.yelp.com/biz/bootleg-special-boston?osq=restaurants
+Giacomo’s,"19 
+
+
+        
+",1135,"Italian,Seafood,Wine Bars",4.0,431 Columbus Ave,False,False,2,https://www.yelp.com/biz/giacomos-boston?osq=restaurants
+Atlantic Fish,"20 
+
+
+        
+",2271,"Seafood,Live/Raw Food,Cocktail Bars",4.0,761 Boylston St,False,False,3,https://www.yelp.com/biz/atlantic-fish-boston-3?osq=restaurants
+Lolita Cocina & Tequila Bar Back Bay,"21 
+
+
+        
+",1810,"Mexican,Lounges,Cocktail Bars",4.0,271 Dartmouth St,False,False,2,https://www.yelp.com/biz/lolita-cocina-and-tequila-bar-back-bay-boston?osq=restaurants
+Yankee Lobster,"22 
+
+
+        
+",1461,Seafood,4.0,300 Northern Ave,False,False,2,https://www.yelp.com/biz/yankee-lobster-boston?osq=restaurants
+The Daily Catch,"23 
+
+
+        
+",1462,"Italian,Seafood,Coffee & Tea",4.0,323 Hanover St,False,False,2,https://www.yelp.com/biz/the-daily-catch-boston?osq=restaurants
+O Ya,"24 
+
+
+        
+",659,Japanese,4.5,9 East St Pl,False,False,4,https://www.yelp.com/biz/o-ya-boston?osq=restaurants
+Shojo,"25 
+
+
+        
+",718,"Asian Fusion,Japanese,Tapas Bars",4.0,9A Tyler St,False,False,2,https://www.yelp.com/biz/shojo-boston-2?osq=restaurants
+Santouka Back Bay,"26 
+
+
+        
+",393,"Ramen,Soup,Noodles",4.0,66 Hereford St,False,False,2,https://www.yelp.com/biz/santouka-back-bay-boston-2?osq=restaurants
+The Gallows,"27 
+
+
+        
+",799,"Burgers,Bars,American (Traditional)",4.0,1395 Washington St,False,False,2,https://www.yelp.com/biz/the-gallows-boston?osq=restaurants
+Ostra,"28 
+
+
+        
+",364,Seafood,4.5,1 Charles St S,False,False,4,https://www.yelp.com/biz/ostra-boston?osq=restaurants
+SRV Boston,"29 
+
+
+        
+",312,"Italian,Wine Bars",4.5,569 Columbus Ave,False,False,3,https://www.yelp.com/biz/srv-boston-boston?osq=restaurants
+Piattini,"30 
+
+
+        
+",746,"Italian,Bars,Salad",4.0,226 Newbury St,False,False,2,https://www.yelp.com/biz/piattini-boston-3?osq=restaurants
