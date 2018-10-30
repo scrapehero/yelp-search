@@ -43,13 +43,15 @@ Python Requests, to make requests and download the HTML content of the pages (ht
 Python LXML, for parsing the HTML Tree Structure using Xpaths (Learn how to install that here – http://lxml.de/installation.html)
 
 ## Running the scraper
-We would execute the code with the script name followed by the positionalarguments **place** and **keyword**. Here is an example
+We would execute the code with the script name followed by the flagged arguments **place** and **keyword**. Here is an example
 to find the business details for restaurants in Boston. MA.
 
 ```
-python3 yelp_search.py Boston,MA restaurants 
+python3 yelp_search.py -p Boston,MA -s restaurants 
 ```
-
+```
+python3 yelp_search.py -f input_file.txt 
+```
 **NEED HELP?**
 
 Run the following to see the help for the python file.

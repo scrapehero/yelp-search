@@ -1,151 +1,151 @@
 business_name,rank,review_count,categories,rating,address,reservation_available,accept_pickup,price_range,url
-Carmelina’s,"1 
+Polcari’s Coffee,"1 
 
 
         
-",1320,Italian,4.5,307 Hanover St,True,False,2,https://www.yelp.com/biz/carmelinas-boston-2?osq=restaurants
-The Salty Pig,"2 
+",174,Coffee & Tea,5.0,105 Salem St,False,False,1,https://www.yelp.com/biz/polcaris-coffee-boston?osq=coffee
+Render Coffee,"2 
 
 
         
-",1473,"American (New),Italian,Pizza",4.0,130 Dartmouth St,False,False,2,https://www.yelp.com/biz/the-salty-pig-boston?osq=restaurants
-Giacomo’s Ristorante,"3 
+",455,"Cafes,Coffee & Tea",4.5,563 Columbus Ave,False,False,1,https://www.yelp.com/biz/render-coffee-boston?osq=coffee
+Thinking Cup,"3 
 
 
         
-",3109,"Italian,Wine Bars,Seafood",4.0,355 Hanover St,False,False,2,https://www.yelp.com/biz/giacomos-ristorante-boston?osq=restaurants
-Soup Shack,"4 
+",690,"Coffee & Tea,Breakfast & Brunch,Sandwiches",4.5,85 Newbury St,False,False,2,https://www.yelp.com/biz/thinking-cup-boston-5?osq=coffee
+Gracenote Coffee,"4 
 
 
         
-",70,"Ramen,Vietnamese,Thai",4.5,779 Centre St,False,True,0,https://www.yelp.com/biz/soup-shack-boston?osq=restaurants
-Neptune Oyster,"5 
+",140,Coffee & Tea,4.5,108 Lincoln St,False,False,2,https://www.yelp.com/biz/gracenote-coffee-boston-6?osq=coffee
+Barrington Coffee Roasting Company,"5 
 
 
         
-",4442,"Seafood,Bars",4.5,63 Salem St,False,False,3,https://www.yelp.com/biz/neptune-oyster-boston?osq=restaurants
-Saltie Girl,"6 
+",151,Coffee & Tea,4.0,303 Newbury St,False,False,1,https://www.yelp.com/biz/barrington-coffee-roasting-company-boston-2?osq=coffee
+Ogawa Coffee,"6 
 
 
         
-",649,"Seafood,Wine Bars,Cocktail Bars",4.5,281 Dartmouth St,False,False,3,https://www.yelp.com/biz/saltie-girl-boston?osq=restaurants
-Luke’s Lobster Back Bay,"7 
+",445,"Coffee & Tea,Sandwiches,Cafes",4.0,10 Milk St,False,False,2,https://www.yelp.com/biz/ogawa-coffee-boston-2?osq=coffee
+Blue State Coffee,"7 
 
 
         
-",1369,Seafood,4.0,75 Exeter Street,False,False,2,https://www.yelp.com/biz/lukes-lobster-back-bay-boston?osq=restaurants
-Row 34,"8 
+",34,Coffee & Tea,4.5,155 Seaport Blvd,False,False,2,https://www.yelp.com/biz/blue-state-coffee-boston-2?osq=coffee
+Thinking Cup,"8 
 
 
         
-",1235,"American (New),Seafood,Bars",4.0,383 Congress St,False,False,3,https://www.yelp.com/biz/row-34-boston?osq=restaurants
-Pomodoro,"9 
+",1076,Coffee & Tea,4.0,165 Tremont St,False,False,2,https://www.yelp.com/biz/thinking-cup-boston-2?osq=coffee
+Boston Brewin Coffee,"9 
 
 
         
-",379,Italian,4.5,351 Hanover St,False,False,2,https://www.yelp.com/biz/pomodoro-boston-2?osq=restaurants
-Gaslight,"10 
+",159,Coffee & Tea,4.5,45 Bromfield St,False,False,1,https://www.yelp.com/biz/boston-brewin-coffee-boston?osq=coffee
+Barrington Coffee Roasting Company,"10 
 
 
         
-",1855,"French,American (New),Cocktail Bars",4.0,560 Harrison Ave,False,True,2,https://www.yelp.com/biz/gaslight-brasserie-boston-5?osq=restaurants
-Island Creek Oyster Bar,"11 
+",171,Coffee & Tea,4.0,346 Congress St,False,False,2,https://www.yelp.com/biz/barrington-coffee-roasting-company-boston?osq=coffee
+The Well Coffee House,"11 
 
 
         
-",2501,"Seafood,Bars",4.5,500 Commonwealth Ave,False,False,3,https://www.yelp.com/biz/island-creek-oyster-bar-boston?osq=restaurants
-Bostonia Public House,"12 
+",65,"Coffee & Tea,Community Service/Non-Profit",5.0,2 S Station,False,False,1,https://www.yelp.com/biz/the-well-coffee-house-boston-4?osq=coffee
+La Colombe Coffee,"12 
 
 
         
-",1065,"American (New),Music Venues,Cocktail Bars",4.0,131 State St,False,False,2,https://www.yelp.com/biz/bostonia-public-house-boston-4?osq=restaurants
-Fuji at Ink Block,"13 
+",80,Coffee & Tea,4.5,745 Atlantic Ave,False,False,1,https://www.yelp.com/biz/la-colombe-coffee-boston?osq=coffee
+Cuppacoffee,"13 
 
 
         
-",288,"Japanese,Sushi Bars",4.5,352 Harrison Ave,True,True,2,https://www.yelp.com/biz/fuji-at-ink-block-boston?osq=restaurants
-Myers & Chang,"14 
+",99,Coffee & Tea,4.5,1 Merrimac St,False,True,1,https://www.yelp.com/biz/cuppacoffee-boston?osq=coffee
+Flat Black Coffee Company,"14 
 
 
         
-",1482,"Asian Fusion,Taiwanese,Cocktail Bars",4.0,1145 Washington St,False,False,2,https://www.yelp.com/biz/myers-and-chang-boston?osq=restaurants
-Barcelona Wine Bar South End,"15 
+",184,Coffee & Tea,4.0,50 Broad St,False,False,1,https://www.yelp.com/biz/flat-black-coffee-company-boston-2?osq=coffee
+Recreo Coffee & Roasterie,"15 
 
 
         
-",870,"Spanish,Wine Bars,Tapas/Small Plates",4.5,525 Tremont St,False,False,2,https://www.yelp.com/biz/barcelona-wine-bar-south-end-boston-6?osq=restaurants
-SOJUba,"16 
+",3,"Coffee & Tea,Sandwiches,Breakfast & Brunch",5.0,1 City Hall Square,False,False,0,https://www.yelp.com/biz/recreo-coffee-and-roasterie-boston?osq=coffee
+Caffé Vittoria,"16 
 
 
         
-",155,"Korean,Lounges",4.5,1260 Boylston St,False,False,2,https://www.yelp.com/biz/sojuba-boston?osq=restaurants
-Toro,"17 
+",821,"Coffee & Tea,Italian",4.0,296 Hanover St,False,False,1,https://www.yelp.com/biz/caff%C3%A9-vittoria-boston-3?osq=coffee
+Wired Puppy Boston,"17 
 
 
         
-",1936,"Tapas Bars,Spanish,Cocktail Bars",4.0,1704 Washington St,False,False,3,https://www.yelp.com/biz/toro-boston-2?osq=restaurants
-Bootleg Special,"18 
+",388,Coffee & Tea,4.0,250 Newbury Street,False,False,2,https://www.yelp.com/biz/wired-puppy-boston-boston?osq=coffee
+Cuppacoffee,"18 
 
 
         
-",130,"Cajun/Creole,Seafood,Tapas Bars",4.0,400 Tremont St,True,False,2,https://www.yelp.com/biz/bootleg-special-boston?osq=restaurants
-Giacomo’s,"19 
+",50,Coffee & Tea,4.0,57 Traveler St,False,True,1,https://www.yelp.com/biz/cuppacoffee-boston-3?osq=coffee
+Neighborhoods Coffee And Crepes,"19 
 
 
         
-",1135,"Italian,Seafood,Wine Bars",4.0,431 Columbus Ave,False,False,2,https://www.yelp.com/biz/giacomos-boston?osq=restaurants
-Atlantic Fish,"20 
+",326,"Coffee & Tea,Cafes",4.0,96 Peterborough St,False,False,1,https://www.yelp.com/biz/neighborhoods-coffee-and-crepes-boston?osq=coffee
+George Howell Coffee,"20 
 
 
         
-",2271,"Seafood,Live/Raw Food,Cocktail Bars",4.0,761 Boylston St,False,False,3,https://www.yelp.com/biz/atlantic-fish-boston-3?osq=restaurants
-Lolita Cocina & Tequila Bar Back Bay,"21 
+",142,Coffee & Tea,4.0,,False,False,2,https://www.yelp.com/biz/george-howell-coffee-boston-4?osq=coffee
+Jaho Coffee Roaster & Wine Bar,"21 
 
 
         
-",1810,"Mexican,Lounges,Cocktail Bars",4.0,271 Dartmouth St,False,False,2,https://www.yelp.com/biz/lolita-cocina-and-tequila-bar-back-bay-boston?osq=restaurants
-Yankee Lobster,"22 
+",256,"Wine Bars,Coffee & Tea,Desserts",4.0,665 Washington St,False,False,2,https://www.yelp.com/biz/jaho-coffee-roaster-and-wine-bar-boston?osq=coffee
+Thinking Cup,"22 
 
 
         
-",1461,Seafood,4.0,300 Northern Ave,False,False,2,https://www.yelp.com/biz/yankee-lobster-boston?osq=restaurants
-The Daily Catch,"23 
+",510,"Coffee & Tea,Sandwiches,Bagels",4.0,236 Hanover St,False,False,1,https://www.yelp.com/biz/thinking-cup-boston-3?osq=coffee
+Broadway’s Pastry & Coffee Shop,"23 
 
 
         
-",1462,"Italian,Seafood,Coffee & Tea",4.0,323 Hanover St,False,False,2,https://www.yelp.com/biz/the-daily-catch-boston?osq=restaurants
-O Ya,"24 
+",47,"Desserts,Cafes,Coffee & Tea",4.0,258 W Broadway,False,True,1,https://www.yelp.com/biz/broadways-pastry-and-coffee-shop-boston?osq=coffee
+Caffè Nero,"24 
 
 
         
-",659,Japanese,4.5,9 East St Pl,False,False,4,https://www.yelp.com/biz/o-ya-boston?osq=restaurants
-Shojo,"25 
+",94,"Cafes,Coffee & Tea",4.0,368 Congress St,False,False,1,https://www.yelp.com/biz/caff%C3%A8-nero-boston-20?osq=coffee
+Cafe Madeleine,"25 
 
 
         
-",718,"Asian Fusion,Japanese,Tapas Bars",4.0,9A Tyler St,False,False,2,https://www.yelp.com/biz/shojo-boston-2?osq=restaurants
-Santouka Back Bay,"26 
+",212,"Bakeries,Coffee & Tea",4.5,517 Columbus Ave,False,False,2,https://www.yelp.com/biz/cafe-madeleine-boston-2?osq=coffee
+Flour Bakery + Café,"26 
 
 
         
-",393,"Ramen,Soup,Noodles",4.0,66 Hereford St,False,False,2,https://www.yelp.com/biz/santouka-back-bay-boston-2?osq=restaurants
-The Gallows,"27 
+",890,"Coffee & Tea,Bakeries,Sandwiches",4.0,131 Clarendon St,False,False,2,https://www.yelp.com/biz/flour-bakery-caf%C3%A9-boston-5?osq=coffee
+Honeycomb Cafe,"27 
 
 
         
-",799,"Burgers,Bars,American (Traditional)",4.0,1395 Washington St,False,False,2,https://www.yelp.com/biz/the-gallows-boston?osq=restaurants
-Ostra,"28 
+",36,"Coffee & Tea,Breakfast & Brunch,Sandwiches",4.5,107-109 Savin Hill Ave,False,False,1,https://www.yelp.com/biz/honeycomb-cafe-boston?osq=coffee
+Pavement Coffeehouse,"28 
 
 
         
-",364,Seafood,4.5,1 Charles St S,False,False,4,https://www.yelp.com/biz/ostra-boston?osq=restaurants
-SRV Boston,"29 
+",108,"Coffee & Tea,Bagels,Sandwiches",4.0,1334 Boylston St,False,False,2,https://www.yelp.com/biz/pavement-coffeehouse-boston-8?osq=coffee
+Caffè Nero,"29 
 
 
         
-",312,"Italian,Wine Bars",4.5,569 Columbus Ave,False,False,3,https://www.yelp.com/biz/srv-boston-boston?osq=restaurants
-Piattini,"30 
+",386,"Coffee & Tea,Breakfast & Brunch",4.0,560 Washington St,False,False,2,https://www.yelp.com/biz/caff%C3%A8-nero-boston-8?osq=coffee
+Pavement Coffeehouse,"30 
 
 
         
-",746,"Italian,Bars,Salad",4.0,226 Newbury St,False,False,2,https://www.yelp.com/biz/piattini-boston-3?osq=restaurants
+",13,"Coffee & Tea,Breakfast & Brunch",4.0,415 Western Ave,False,False,0,https://www.yelp.com/biz/pavement-coffeehouse-boston-9?osq=coffee
