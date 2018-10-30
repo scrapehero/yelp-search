@@ -58,3 +58,10 @@ Run the following to see the help for the python file.
 ```
 python3 yellow-pages.py -h
 ```
+## Sample Output
+
+This will create a csv file:
+
+[Sample Output](https://raw.githubusercontent.com/iGeekuPlay/yelp-search/input-feature/scraped_yelp_results_for_Boston%2CMA.csv)
+ 
+ 
